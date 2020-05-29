@@ -4,6 +4,8 @@ title: Test de moi
 subtitle: Un petit test pour voir
 published: true
 ---
+Bonjour, ceci est une modification locale.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mollis, odio non tristique tempor, nisl augue fringilla tellus, eu tempus nunc est sit amet nunc. Nunc lobortis massa quis eros accumsan rutrum. Donec viverra mi at luctus mattis. Nam faucibus interdum varius. Maecenas blandit varius consequat. Morbi imperdiet porttitor dictum. Donec suscipit orci vitae odio congue hendrerit. Aliquam porta dui sit amet leo facilisis maximus vel quis ipsum. Maecenas maximus ultrices nisi vel finibus. Praesent in nulla urna. Curabitur tincidunt, ex non porttitor ultricies, leo libero finibus nulla, vel finibus libero urna id libero.
 
 ![Venice]( https://www.publicdomainpictures.net/pictures/300000/velka/venice-italy-travel-poster-15626778587Sq.jpg)
